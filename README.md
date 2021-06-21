@@ -1,5 +1,5 @@
 #Banking System by Nishank Majumdar
-#Sparks Foundation Internship Project
+##Sparks Foundation Internship Project
 A Web Application used to transfer money between multiple users.  
 
 Stack used - 
